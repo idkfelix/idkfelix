@@ -1,1 +1,3 @@
-  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=idkfelix&count_private=true&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@idkfelix)
+  ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api/?username=idkfelix&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  
+  
